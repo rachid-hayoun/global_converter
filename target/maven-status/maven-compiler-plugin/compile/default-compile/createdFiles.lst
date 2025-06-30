@@ -1,0 +1,13 @@
+com\exemple\App$2.class
+include\TextConverter.class
+com\exemple\App$1.class
+com\exemple\App$3.class
+include\Main.class
+include\check.class
+include\Converter.class
+include\DecimalConverter.class
+include\OctalConverter.class
+com\exemple\App.class
+include\ChiffrementConverter.class
+include\HexadecimalConverter.class
+include\BinaryConverter.class
